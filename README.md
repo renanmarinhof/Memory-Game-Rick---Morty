@@ -4,7 +4,7 @@
 
 <p align="center">
   Projeto Jogo da Memoria de Rick e Morty. Sua memória é boa? Coloque à prova. <br/>
-<a href="">Acesse o projeto clicando aqui.</a>
+<a href="https://memory-game-rick-morty.vercel.app">Acesse o projeto clicando aqui.</a>
 </p>
 
 ## 🚀 Tecnologias
