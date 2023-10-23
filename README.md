@@ -1,6 +1,6 @@
 <h1 align="center"> Rick and Morty Memory Card </h1>
 
-<p> <img align="center" src="assets/logo.png" alt="Image" height="250" width="500"> </p>
+<p align="center"> <img src="assets/logo.png" alt="Image" height="250" width="500"> </p>
 
 <p align="center">
   Projeto Jogo da Memoria de Rick e Morty. Sua memória é boa? Coloque à prova. <br/>
