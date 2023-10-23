@@ -19,5 +19,5 @@ const handleSubmit = (event) => {
 
 }
 
-input.addEventListener('input', validateInput);
-form.addEventListener('submit', handleSubmit);
+input.addEventListener('input', validateInput)
+form.addEventListener('submit', handleSubmit)
