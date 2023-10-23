@@ -71,12 +71,9 @@ header {
   opacity: 0.5;
 }
 
-@media screen and (max-width: 768px) {
-  html {
-    font-size: 87.5%;
-  }
-
+@media screen and (max-width:920px) {
   .grid {
     grid-template-columns: repeat(5, 1fr);
+
   }
 }
